@@ -1,5 +1,5 @@
 var HomeController = RouteController.extend({
-    template: 'home'
+    template: 'defaultBody'
 });
 
 Router.map(function () {
